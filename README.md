@@ -1,7 +1,4 @@
-### Hi there 👋
+### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am Mat-Fraser
 
-<!--
-**Mat-Fraser/Mat-Fraser** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Adrian Twarog
-I'm Adrian from Australia, and I do content on Design and Development. I really enjoy learning languages and frameworks like React and React Native, as well as work in WordPress. I also enjoy wireframing, ui, ux, and design in general.
+![Cover 0](https://user-images.githubusercontent.com/86045021/188324363-c50c5ff1-41e7-4cc4-811d-a4d0235a2f46.png)
