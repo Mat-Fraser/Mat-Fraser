@@ -6,3 +6,8 @@
 I'm a computer science engineering student. 
 
 I'm a web developer and software engineer who is passionate about creating technology.
+
+# Things that I'm also passionate about:
+- Web 3.0
+- Blockchain
+- Big data
