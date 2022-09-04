@@ -20,6 +20,9 @@ I'm a web developer and software engineer who is passionate about creating techn
 
 ## Languages and Tools 
 
+![logo-javascript (4)](https://user-images.githubusercontent.com/86045021/188328621-afb759fb-ce60-4828-93b6-b2a7ede51084.svg)
+
+
 ## By the way here are some of my statistics
 
 ![Mat-Fraser's github stats](https://github-readme-stats.vercel.app/api?username=Mat-Fraser&show_icons=true&theme=tokyonight)
