@@ -18,3 +18,6 @@ I'm a web developer and software engineer who is passionate about creating techn
 - Your future employee on [LinkedIn](https://www.linkedin.com/in/)
 - And of course GitHub you're already on (Recursion).
 
+<h3 align="center">Languages and Tools:</h3>
+<hr>
+
