@@ -18,12 +18,17 @@ I'm a web developer and software engineer who is passionate about creating techn
 - Your future employee on [LinkedIn](https://www.linkedin.com/in/)
 - And of course GitHub you're already on (Recursion).
 
-<h3 align="center">Languages and Tools </h3>
-<hr>
+## Languages and Tools 
 
+## By the way here are some of my statistics
 
 ![Mat-Fraser's github stats](https://github-readme-stats.vercel.app/api?username=Mat-Fraser&show_icons=true&theme=tokyonight)
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mat-Fraser&theme=tokyonight" alt="mystreak"/>
+
+
+
+### Yo! Look at this snake eating up my contributions! 
+
 
 
 
