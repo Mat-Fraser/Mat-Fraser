@@ -32,7 +32,7 @@ I'm a web developer and software engineer who is passionate about creating techn
 <hr>
 
 ![Mat-Fraser's github stats](https://github-readme-stats.vercel.app/api?username=Mat-Fraser&show_icons=true&theme=tokyonight)
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Mat-Fraser&theme=tokyonight" alt="mystreak"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Mat-Fraser&theme=tokyonight" alt="mystreak" width=50%/>
 
 
 
