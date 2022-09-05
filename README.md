@@ -23,15 +23,18 @@ I'm a web developer and software engineer who is passionate about creating techn
 ![logo-javascript (4)](https://user-images.githubusercontent.com/86045021/188328621-afb759fb-ce60-4828-93b6-b2a7ede51084.svg)
 
 
-## By the way here are some of my statistics
+### Yo! Look at this snake eating up my contributions! 
+<hr>
+
+![snake gif](https://github.com/Mat-Fraser/Mat-Fraser/blob/output/github-contribution-grid-snake.svg)
+
+### By the way here are some of my statistics
+<hr>
 
 ![Mat-Fraser's github stats](https://github-readme-stats.vercel.app/api?username=Mat-Fraser&show_icons=true&theme=tokyonight)
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mat-Fraser&theme=tokyonight" alt="mystreak"/>
 
 
 
-### Yo! Look at this snake eating up my contributions! 
-
-![snake gif](https://github.com/Mat-Fraser/Mat-Fraser/blob/output/github-contribution-grid-snake.svg)
 
 
