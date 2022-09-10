@@ -15,7 +15,7 @@ I'm a web developer and software engineer who is passionate about creating techn
 ## Get in touch :coffee:
 
 - Your future buddy to discuss web related things and tech in general on [Twitter](https://twitter.com/).
-- Your future employee on [LinkedIn](https://www.linkedin.com/in/)
+- Your future employee on [LinkedIn](https://www.linkedin.com/in/akshat-rawat-b708441b1)
 - And of course GitHub you're already on (Recursion).
 
 ## Languages and Tools 
