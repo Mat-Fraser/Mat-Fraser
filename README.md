@@ -26,7 +26,7 @@ I'm a web developer and software engineer who is passionate about creating techn
 ### Yo! Look at this snake eating up my contributions! 
 <hr>
 
-![snake gif](https://github.com/Mat-Fraser/Mat-Fraser/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/Mat-Fraser/Mat-Fraser/blob/output/github-contribution-grid-snake.gif)
 
 ### By the way here are some of my statistics
 <hr>
