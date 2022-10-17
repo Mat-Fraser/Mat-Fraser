@@ -25,6 +25,7 @@ I'm a web developer and software engineer who is passionate about creating techn
 
 <hr>
 
+
 ### By the way here are some of my statistics
 <hr>
 
